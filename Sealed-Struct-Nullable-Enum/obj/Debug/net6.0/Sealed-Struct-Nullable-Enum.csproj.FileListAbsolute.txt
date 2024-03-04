@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum.exe
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum.deps.json
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum.runtimeconfig.json
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum.dll
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\bin\Debug\net6.0\Sealed-Struct-Nullable-Enum.pdb
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.AssemblyInfo.cs
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.dll
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\refint\Sealed-Struct-Nullable-Enum.dll
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.pdb
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\Sealed-Struct-Nullable-Enum.genruntimeconfig.cache
+C:\Workspace Code Academy\Sealed-Struct-Nullable-Enum\Sealed-Struct-Nullable-Enum\obj\Debug\net6.0\ref\Sealed-Struct-Nullable-Enum.dll
